@@ -66,9 +66,6 @@ Python · Pandas · NumPy · scikit-learn · LangChain · LangGraph · FastAPI �
 ### 📊 GitHub Insights
 <p align="center">
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AwabShuja&theme=tokyonight"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwabShuja&layout=compact&theme=tokyonight"/>
 </p>
 
