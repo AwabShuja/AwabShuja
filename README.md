@@ -24,7 +24,7 @@
   [awabshuja02@gmail.com](mailto:awabshuja02@gmail.com)
 
 - 🧾 **Know about my experiences:**  
-  [View My Resume](https://docs.google.com/document/d/1TuoM3JJlvqwgnb674pdn5zHzfAARKmyRt_Y6LROA9N8/edit?tab=t.0) 
+  [View My CV](https://docs.google.com/document/d/14RK3tpF6LRTXXHMz5FttaTottCwz-kbLnz-GRdvmtWQ/edit?usp=sharing) 
 
 ---
 
