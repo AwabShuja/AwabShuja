@@ -1,29 +1,28 @@
-<!-- Hero -->
 <h1 align="center">Hi 👋, I'm Muhammad Awab Shuja</h1>
 <p align="center">
   <b>AI Engineer | Web Developer</b>
 </p>
 
 <p align="center">
-  <i>Exploring Agentic AI, RAG Systems & Intelligent Applications.</i><br/>
-  <i>Driven by curiosity to build meaningful AI solutions that automate, assist and inspire.</i>
+  <i>Bridging the gap between Generative AI models and production-ready workflows.</i><br/>
+  <i>Specializing in Agentic AI, RAG Systems, and Intelligent Automation to solve real-world business gaps.</i>
 </p>
 
 ---
 
-- 🧠 **Currently learning:**  
-  Advancing my expertise in Agentic AI, RAG pipelines, and LLM-based applications using LangChain & LangGraph.  
+- 🧠 **Currently learning:**
+  Advancing my expertise in LangGraph for multi-agent systems and architecting complex AI Automation workflows using n8n to drive operational efficiency.  
 
-- 🤝 **Looking to collaborate on:**  
-  Agentic AI applications, LLM projects, and chatbots that enhance user experiences through intelligent interaction.  
+- 🤝 **Looking to collaborate on:**
+  Agentic AI applications, autonomous workflow engines, and full-stack AI products that enhance user experiences through intelligent interaction.  
 
-- 💬 **Ask me about:**  
-  LLMs • RAG Architecture • LangChain • LangGraph • FastAPI • Model Integration • AI Product Design • Full-Stack Web Apps  
+- 💬 **Ask me about:**
+  LLMs • RAG Architecture • n8n Automation • LangChain • LangGraph • API Orchestration • FastAPI • Full-Stack Web Apps.  
 
-- 📫 **How to reach me:**  
+- 📫 **How to reach me:**
   [awabshuja02@gmail.com](mailto:awabshuja02@gmail.com)
 
-- 🧾 **Know about my experiences:**  
+- 🧾 **Know about my experiences:**
   [View My CV](https://docs.google.com/document/d/14RK3tpF6LRTXXHMz5FttaTottCwz-kbLnz-GRdvmtWQ/edit?usp=sharing) 
 
 ---
@@ -44,19 +43,16 @@
 ---
 
 ### 🛠️ Languages and Tools
-Python · Pandas · NumPy · scikit-learn · LangChain · LangGraph · FastAPI · Streamlit · React · Next.js · Django · Flask · Odoo · SQL · Git/GitHub · HTML · CSS · JavaScript · Tailwind · Node.js 
+Python · Pandas · NumPy · **LangChain** · **LangGraph** · **n8n** · FastAPI · React · Next.js · Node.js · **Supabase** · SQL · Git · REST APIs · Webhooks · Odoo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 </p>
 
@@ -71,6 +67,5 @@ Python · Pandas · NumPy · scikit-learn · LangChain · LangGraph · FastAPI �
 <p align="center">
   <img height="160" src="https://readme-stats-fast.vercel.app/api/top-langs/?username=AwabShuja&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
