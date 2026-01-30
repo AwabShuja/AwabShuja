@@ -10,20 +10,15 @@
 
 ---
 
-- 🧠 **Currently learning:**
-Advancing my expertise in LangGraph for multi-agent systems and architecting complex AI Automation workflows using n8n to drive operational efficiency.  
+- 🧠 **Currently learning:**<br> Advancing my expertise in LangGraph for multi-agent systems and architecting complex AI Automation workflows using n8n to drive operational efficiency.  
 
-- 🤝 **Looking to collaborate on:**
-Agentic AI applications, autonomous workflow engines, and full-stack AI products that enhance user experiences through intelligent interaction.  
+- 🤝 **Looking to collaborate on:**<br> Agentic AI applications, autonomous workflow engines, and full-stack AI products that enhance user experiences through intelligent interaction.  
 
-- 💬 **Ask me about:**
-LLMs • RAG Architecture • n8n Automation • LangChain • LangGraph • API Orchestration • FastAPI • Full-Stack Web Apps.  
+- 💬 **Ask me about:**<br> LLMs • RAG Architecture • n8n Automation • LangChain • LangGraph • API Orchestration • FastAPI • Full-Stack Web Apps.  
 
-- 📫 **How to reach me:**
-[awabshuja02@gmail.com](mailto:awabshuja02@gmail.com)
+- 📫 **How to reach me:**<br> [awabshuja02@gmail.com](mailto:awabshuja02@gmail.com)
 
-- 🧾 **Know about my experiences:**
-[View My CV](https://docs.google.com/document/d/14RK3tpF6LRTXXHMz5FttaTottCwz-kbLnz-GRdvmtWQ/edit?usp=sharing) 
+- 🧾 **Know about my experiences:**<br> [View My CV](https://docs.google.com/document/d/14RK3tpF6LRTXXHMz5FttaTottCwz-kbLnz-GRdvmtWQ/edit?usp=sharing) 
 
 ---
 
