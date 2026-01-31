@@ -38,7 +38,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-Python · Pandas · NumPy · **LangChain** · **LangGraph** · **n8n** · FastAPI · React · Next.js · Node.js · **Supabase** · SQL · Git · REST APIs · Webhooks · Odoo
+Python · Pandas · NumPy · LangChain · LangGraph · n8n · FastAPI · React · Next.js · Node.js · Supabase · SQL · Git · REST APIs · Webhooks · Odoo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
