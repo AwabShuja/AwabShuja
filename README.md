@@ -18,8 +18,6 @@
 
 - 📫 **How to reach me:**<br> [awabshuja02@gmail.com](mailto:awabshuja02@gmail.com)
 
-- 🧾 **Know about my experiences:**<br> [View My CV](https://docs.google.com/document/d/14RK3tpF6LRTXXHMz5FttaTottCwz-kbLnz-GRdvmtWQ/edit?usp=sharing) 
-
 ---
 
 ### 🌐 Connect with me
