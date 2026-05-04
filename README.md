@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Awab Shuja</h1>
 <p align="center">
-  <b>AI Engineer | Web Developer</b>
+  <b>AI Engineer  |  GenAI & Agentic Systems  |  Software Developer</b>
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-Python · Pandas · NumPy · LangChain · LangGraph · n8n · FastAPI · React · Next.js · Node.js · Supabase · SQL · Git · REST APIs · Webhooks · Odoo
+Python · Pandas · NumPy · LangChain · LangGraph · LangSmith · n8n · FastAPI · React · Next.js · Node.js · Supabase · SQL · Git · REST APIs · Webhooks · WebSocketing · Odoo
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
